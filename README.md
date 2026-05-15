@@ -1,11 +1,19 @@
 # MILLION LIVE! 在线资源索引
+- 收集互联网上的百万相关资源，以中文互联网为主
+- 所有内容的收集均未取得任何许可
+- 请尊重UP主和翻译者的劳动，怀抱感激之心享受内容
 
 ## [生放送 & 不定期节目](https://765media.github.io/1/)
+这里收集各种生放送和不定期节目
 
 ## [广播 & 定期节目](https://765media.github.io/2/)
+这里收集各种定期节目
 
 ## [LIVE & EVENT](https://765media.github.io/3/)
+这里收集正式LIVE和各种其他活动
 
 ## [drama & CD特典](https://765media.github.io/4/)
+这里收集各种广播剧和CD特典
 
 ## [BD特典](https://765media.github.io/5/)
+这里收集BD特典
