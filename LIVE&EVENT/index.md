@@ -49,29 +49,30 @@
 
 ## 其他活动
 
-| 日期          | 内容                                                                            | 索引                                      |
-| ----------- | ----------------------------------------------------------------------------- | --------------------------------------- |
-| 2013年8月4日   | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 横浜公演                     |                                         |
-| 2013年8月11日  | アイドルマスター ミリオンライブ！ ローソンキャンペーン Special Party                                    |                                         |
-| 2013年8月24日  | Animelo Summer Live 2013 -FLAG NINE- 2日目                                      |                                         |
-| 2013年9月15日  | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 福岡公演                     |                                         |
-| 2013年9月21日  | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 幕張公演                     |                                         |
-| 2014年2月22日  | M@STERS OF IDOL WORLD!!2014                                                   |                                         |
-| 2015年7月18日  | M@STERS OF IDOL WORLD!!2015                                                   |                                         |
-| 2017年4月22日  | THE IDOLM@STER 765 MILLIONSTARS First Time in TAIWAN                          |                                         |
-| 2017年10月7日  | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!!                         |                                         |
-| 2019年10月19日 | バンダイナムコエンターテインメントフェスティバル                                                      |                                         |
-| 2022年5月14日  | バンダイナムコエンターテインメントフェスティバル2nd DAY1                                              | [A站](https://www.acfun.cn/v/ac35007355) |
-| 2022年5月15日  | バンダイナムコエンターテインメントフェスティバル2nd DAY2                                              | [A站](https://www.acfun.cn/v/ac35007358) |
-| 2022年7月3日   | xR ARTISTS SUPER FES 2022 DAY2                                                | [A站](https://www.acfun.cn/v/ac35551377) |
-| 2022年11月12日 | THE IDOLM@STER ORCHESTRA CONCERT 〜SYMPHONY OF FIVE STARS!!!!!〜                |                                         |
-| 2023年2月11日  | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023                                |                                         |
-| 2023年7月1日   | 765 MILLIONSTARS LIVE 2023 Dreamin' Groove                                    | [A站](https://www.acfun.cn/v/ac41937609) |
-| 2023年12月9日  | 異次元フェス アイドルマスター⭐❤️ラブライブ！歌合戦                                                   |                                         |
-| 2024年4月11日  | MaiNote Festival 2025                                                         |                                         |
-| 2024年12月14日 | THE IDOLM@STER MASTER EXPO LIVE SHOWCASE & エキスポステージ                           | [A站](https://www.acfun.cn/v/ac46737648) |
-| 2025年3月29日  | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY1                  | [A站](https://www.acfun.cn/v/ac47097401) |
-| 2025年3月30日  | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY2                  |                                         |
-| 2025年7月12日  | THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS |                                         |
-| 2025年12月13日 | THE IDOLM@STER M@STERS OF IDOL WORLD 2025                                     |                                         |
-|             |                                                                               |                                         |
+| 日期                    | 内容                                                                            | 索引                                                |
+| --------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
+| 2013年8月4日             | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 横浜公演                     |                                                   |
+| 2013年8月11日            | アイドルマスター ミリオンライブ！ ローソンキャンペーン Special Party                                    |                                                   |
+| 2013年8月24日            | Animelo Summer Live 2013 -FLAG NINE- 2日目                                      |                                                   |
+| 2013年9月15日            | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 福岡公演                     |                                                   |
+| 2013年9月21日            | THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! 幕張公演                     |                                                   |
+| 2014年2月22日            | M@STERS OF IDOL WORLD!!2014                                                   |                                                   |
+| 2015年7月18日            | M@STERS OF IDOL WORLD!!2015                                                   |                                                   |
+| 2017年4月22日            | THE IDOLM@STER 765 MILLIONSTARS First Time in TAIWAN                          |                                                   |
+| 2017年10月7日            | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!!                         |                                                   |
+| 2019年10月19日           | バンダイナムコエンターテインメントフェスティバル                                                      |                                                   |
+| 2022年5月14日            | バンダイナムコエンターテインメントフェスティバル2nd DAY1                                              | [A站](https://www.acfun.cn/v/ac35007355)           |
+| 2022年5月15日            | バンダイナムコエンターテインメントフェスティバル2nd DAY2                                              | [A站](https://www.acfun.cn/v/ac35007358)           |
+| 2022年7月3日             | xR ARTISTS SUPER FES 2022 DAY2                                                | [A站](https://www.acfun.cn/v/ac35551377)           |
+| 2021年10月9日~2022年10月9日 | MILLION LIVE! SEASON-@IR!!!!                                                  | [B站](https://www.bilibili.com/video/BV1RYk3YMEqJ) |
+| 2022年11月12日           | THE IDOLM@STER ORCHESTRA CONCERT 〜SYMPHONY OF FIVE STARS!!!!!〜                |                                                   |
+| 2023年2月11日            | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023                                |                                                   |
+| 2023年7月1日             | 765 MILLIONSTARS LIVE 2023 Dreamin' Groove                                    | [A站](https://www.acfun.cn/v/ac41937609)           |
+| 2023年12月9日            | 異次元フェス アイドルマスター⭐❤️ラブライブ！歌合戦                                                   |                                                   |
+| 2024年4月11日            | MaiNote Festival 2025                                                         |                                                   |
+| 2024年12月14日           | THE IDOLM@STER MASTER EXPO LIVE SHOWCASE & エキスポステージ                           | [A站](https://www.acfun.cn/v/ac46737648)           |
+| 2025年3月29日            | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY1                  | [A站](https://www.acfun.cn/v/ac47097401)           |
+| 2025年3月30日            | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY2                  |                                                   |
+| 2025年7月12日            | THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS |                                                   |
+| 2025年12月13日           | THE IDOLM@STER M@STERS OF IDOL WORLD 2025                                     |                                                   |
+|                       |                                                                               |                                                   |
