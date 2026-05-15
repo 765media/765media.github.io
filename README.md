@@ -1,11 +1,11 @@
-# 765media.github.io
+# MILLION LIVE! 在线资源索引
 
-[生放](https://765media.github.io/生放/)
+## [生放送 & 不定期节目](https://765media.github.io/1/)
 
-[LIVE&EVENT](https://765media.github.io/LIVE&EVENT/)
+## [广播 & 定期节目](https://765media.github.io/2/)
 
-[BD特典](https://765media.github.io/BD特典/)
+## [LIVE & EVENT](https://765media.github.io/3/)
 
-[广播](https://765media.github.io/广播/)
+## [drama & CD特典](https://765media.github.io/4/)
 
-[drama&CD特典](https://765media.github.io/drama&CD特典/)
+## [BD特典](https://765media.github.io/5/)
