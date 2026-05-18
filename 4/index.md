@@ -51,9 +51,9 @@
 | 2021年2月24日  | MTW14 TRICK&TREAT                                     |                                                         |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=8)  |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1PssAzcEAR)       |
-| 2021年12月15日 | MTW15 chicAAmor                                       |                                                         |
-| 2021年4月21日  | MTW16 ≡君彩≡                                            |                                                         |
-| 2021年5月26日  | MTW17 ARMooo                                          |                                                         |
+| 2021年12月15日 | MTW15 chicAAmor                                       | [B站](https://www.bilibili.com/video/BV1xM4y1b7tg)       |
+| 2021年4月21日  | MTW16 ≡君彩≡                                            | [B站](https://www.bilibili.com/video/BV1BFZiBGE5F)       |
+| 2021年5月26日  | MTW17 ARMooo                                          | [B站](https://www.bilibili.com/video/BV1bs5r6MEDq)       |
 | 2021年6月23日  | MTW18 ストロベリーポップムーン                                    | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=77) |
 | 2020年12月2日  | ZWEIGLANZ アライアンス・スターダスト                               |                                                         |
 | 2021年10月27日 | MTS BRIGHT DIAMOND                                    | [B站](https://www.bilibili.com/video/BV1NY49zyEVm)       |

@@ -12,11 +12,11 @@
 | 2016年1月31日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 名古屋公演                | [A站](https://www.acfun.cn/v/ac33402384)           |
 | 2016年2月7日   | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 仙台公演                 | [A站](https://www.acfun.cn/v/ac33408404)           |
 | 2016年3月12日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 大阪公演1日目              | [A站](https://www.acfun.cn/v/ac33409195)           |
-| 2016年3月13日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 大阪公演2日目              | [A站](https://www.acfun.cn/v/ac33409995)           |
 |             | （节选）百万小品之《卖mochi》                                                  | [B站](https://www.bilibili.com/video/BV1sV411w7Vh) |
-|             | （节选）百万相声之《大阪代表》                                                    | [B站](https://www.bilibili.com/video/BV1cH4y1R7Uu) |
-|             | （节选）百万喜剧之《松田食堂的一天》                                                 | [B站](https://www.bilibili.com/video/BV1Gt421W76f) |
 |             | （节选）百万短剧《千鹤带娃逃票记》                                                  | [B站](https://www.bilibili.com/video/BV17J4m1774T) |
+|             | （节选）百万相声之《大阪代表》                                                    | [B站](https://www.bilibili.com/video/BV1cH4y1R7Uu) |
+| 2016年3月13日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 大阪公演2日目              | [A站](https://www.acfun.cn/v/ac33409995)           |
+|             | （节选）百万喜剧之《松田食堂的一天》                                                 | [B站](https://www.bilibili.com/video/BV1Gt421W76f) |
 | 2016年4月3日   | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 福岡公演                 | [A站](https://www.acfun.cn/v/ac33410328)           |
 | 2016年4月16日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 幕張公演1日目              | [A站](https://www.acfun.cn/v/ac33411102)           |
 | 2016年4月17日  | MILLION LIVE! 3rdLIVE TOUR BELIEVE MY DRE@M!! 幕張公演2日目              | [A站](https://www.acfun.cn/v/ac33411800)           |
