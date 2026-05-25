@@ -39,10 +39,10 @@
 | 2021年1月12日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」2020年振り返りPV                                         | [YTB](https://www.youtube.com/watch?v=hD1qBDE27vY)                                                 |
 | 2021年6月29日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」4周年記念映像                                             | [YTB](https://www.youtube.com/watch?v=gCslU9he-2w)                                                 |
 | 2022年1月7日        | 「アイドルマスター ミリオンライブ！ シアターデイズ」2021年振り返りPV                                         | [YTB](https://www.youtube.com/watch?v=T7xodSL2x9I)                                                 |
-| 2022年2月24日       | 【絶賛準備中！➀】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜CLEVER CLOVER〜           | [YTB](https://www.youtube.com/watch?v=GZnAq_0SLJA)                                                 |
+| 2022年2月24日       | 【絶賛準備中！①】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜CLEVER CLOVER〜           | [YTB](https://www.youtube.com/watch?v=GZnAq_0SLJA)                                                 |
 | 2022年2月25日       | 【絶賛準備中！②】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜CLEVER CLOVER〜【アイドルマスター】 | [YTB](https://www.youtube.com/watch?v=BzIWge_ke_c)                                                 |
 | 2022年5月31日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」PV第4弾                                               | [YTB](https://www.youtube.com/watch?v=uZE7O5WclZw)                                                 |
-| 2022年6月10日       | 【絶賛準備中！➀】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜LOVERS HEART〜【アイドルマスター】  | [YTB](https://www.youtube.com/watch?v=qSkZpgy0Xqg)                                                 |
+| 2022年6月10日       | 【絶賛準備中！①】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜LOVERS HEART〜【アイドルマスター】  | [YTB](https://www.youtube.com/watch?v=qSkZpgy0Xqg)                                                 |
 | 2022年6月10日       | 【絶賛準備中！②】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜LOVERS HEART〜【アイドルマスター】  | [YTB](https://www.youtube.com/watch?v=3encmPoAkmc)                                                 |
 | 2022年6月28日       | 【ミリシタ】5周年特別PV                                                                  | [YTB](https://www.youtube.com/watch?v=YbmpXvNwViE)                                                 |
 | 2022年6月30日       | 【ミリシタ】SEASON-@IR!!!! 〜BRIGHT DIAMOND〜出演アイドルのバックステージ映像をお届け！                     | [YTB](https://www.youtube.com/watch?v=f0c2JsKdw2s)                                                 |
