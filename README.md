@@ -17,5 +17,13 @@
 ## [drama & CD特典](https://765media.github.io/4/)
 这里收集各种广播剧和CD特典
 
-## [BD特典](https://765media.github.io/5/)
+## [BD特典](5)
 这里收集BD特典
+
+## [PV & CM](6)
+这里收集各种宣传视频和广告
+
+
+<div align="right">
+最后更新于：2026年5月25日
+</div>

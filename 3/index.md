@@ -1,6 +1,6 @@
 # LIVE & EVENT
 
-### 这里收集正式LIVE和各种其他演出活动
+这里收集正式LIVE和各种其他演出活动
 ## 正式（编号）LIVE
 
 | 日期          | 内容                                                                 | 索引                                                |
@@ -54,7 +54,7 @@
 | 2026年5月5日   | MILLION LIVE! 13thLIVE DAY1 全力援走                                   | [B站](https://www.bilibili.com/video/BV14WdABfEyf) |
 | 2026年5月6日   | MILLION LIVE! 13thLIVE DAY2 Grand bal masqué                       | [B站](https://www.bilibili.com/video/BV1nBdABJEb7) |
 
-## 其他活动
+## 其他LIVE及活动
 
 | 日期                        | 内容                                                                            | 索引                                                                                                     |
 | ------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -72,8 +72,18 @@
 | 2015年7月19日                | M@STERS OF IDOL WORLD!!2015 DAY2                                              | [B站](https://www.bilibili.com/video/BV1Eb411U74k)                                                      |
 |                           | 中文字幕                                                                          | [A站](https://www.acfun.cn/v/ac35066561)                                                                |
 | 2017年4月22日                | THE IDOLM@STER 765 MILLIONSTARS First Time in TAIWAN                          | [B站](https://www.bilibili.com/video/BV1q9rjB1EF4)                                                      |
+| 2017年4月29日                | 『ニコニコ超会議2017』超音楽祭2017 ミリオンスターズ出演パート                                           | [N站](https://www.nicovideo.jp/watch/sm31116964)                                                        |
+| 2017年8月26日                | Animelo Summer Live 2017 -THE CARD-                                           |                                                                                                        |
 | 2017年10月7日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! DAY1                    | [B站](https://www.bilibili.com/video/BV1cd4y1f7Pw)<br>[B站](https://www.bilibili.com/video/BV13z4y1q7zj) |
 | 2017年10月8日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! DAY2                    | [B站](https://www.bilibili.com/video/BV1HP411B7Xg)<br>[B站](https://www.bilibili.com/video/BV1pu411a78a) |
+| 2018年1月28日                | リスアニ! LIVE 2018                                                               |                                                                                                        |
+| 2018年4月28日                | 『ニコニコ超会議2018』【超アイドルマスター】ミリシタステージ                                              | [N站](https://www.nicovideo.jp/watch/sm33121026)                                                        |
+| 2018年4月28日                | 『ニコニコ超会議2018』超音楽祭2018 ミリオンスターズ出演パート                                           | [N站](https://www.nicovideo.jp/watch/sm33121566)                                                        |
+| 2018年7月8日                 | 「東北楽天ゴールデンイーグルス」コラボイベント 声優・山崎はるか、角元明日香、南早紀による始球式                              | [YTB](https://www.youtube.com/watch?v=xgffLpkVFlM)                                                     |
+| 2018年7月21日                | Anisong World Matsuri                                                         |                                                                                                        |
+| 2018年7月29日                | ワンダーフェスティバル2018[夏] 『アイドルマスター ミリオンライブ!/ワンフェス サマーステージ 2018』                     | [N站](https://www.nicovideo.jp/watch/sm33604848)                                                        |
+| 2018年8月26日                | Animelo Summer Live 2018 "OK!" DAY3                                           |                                                                                                        |
+| 2018年12月15日               | リスアニ! LIVE TAIWAN 2018 SATURDAY STAGE                                         |                                                                                                        |
 | 2019年10月19日               | バンダイナムコエンターテインメントフェスティバル DAY1                                                 | [B站](https://www.bilibili.com/video/BV1yRXuYrEAv)                                                      |
 | 2019年10月20日               | バンダイナムコエンターテインメントフェスティバル DAY2                                                 | [B站](https://www.bilibili.com/video/BV1xtX7YAEF2)                                                      |
 | 2022年5月14日                | バンダイナムコエンターテインメントフェスティバル2nd DAY1                                              | [A站](https://www.acfun.cn/v/ac35007355)                                                                |
