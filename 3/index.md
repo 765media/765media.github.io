@@ -33,20 +33,20 @@
 | 2019年6月30日  | MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! 福岡公演 DAY2                 | [A站](https://www.acfun.cn/v/ac29345570)                                                                     |
 | 2019年9月21日  | MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! SP公演 DAY1                 | [A站](https://www.acfun.cn/v/ac29352158)                                                                     |
 | 2019年9月22日  | MILLION LIVE! 6thLIVE TOUR UNI-ON@IR!!!! SP公演 DAY2                 | [A站](https://www.acfun.cn/v/ac29353726)                                                                     |
-| 2021年5月22日  | MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn DAY1                    | [A站](https://www.acfun.cn/v/ac34666890)                                                                     |
-| 2021年5月23日  | MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn DAY2                    | [A站](https://www.acfun.cn/v/ac30757149)                                                                     |
-| 2022年2月12日  | MILLION LIVE! 8thLIVE Twelw@ve DAY1                                | [A站](https://www.acfun.cn/v/ac33681064)                                                                     |
-| 2022年2月13日  | MILLION LIVE! 8thLIVE Twelw@ve DAY2                                | [A站](https://www.acfun.cn/v/ac33681128)                                                                     |
-| 2023年1月14日  | MILLION LIVE! 9thLIVE ChoruSp@rkle!! DAY1                          | [A站](https://www.acfun.cn/v/ac40459876)                                                                     |
-| 2023年1月15日  | MILLION LIVE! 9thLIVE ChoruSp@rkle!! DAY2                          | [A站](https://www.acfun.cn/v/ac40460217)                                                                     |
-| 2023年4月22日  | MILLION LIVE! 10thLIVE TOUR Act-1 DAY1                             | [A站](https://www.acfun.cn/v/ac41214577)                                                                     |
-| 2023年4月23日  | MILLION LIVE! 10thLIVE TOUR Act-1 DAY2                             | [A站](https://www.acfun.cn/v/ac41214579)                                                                     |
-| 2023年7月29日  | MILLION LIVE! 10thLIVE TOUR Act-2 DAY1                             | [A站](https://www.acfun.cn/v/ac41975986)                                                                     |
-| 2023年7月30日  | MILLION LIVE! 10thLIVE TOUR Act-2 DAY2                             | [A站](https://www.acfun.cn/v/ac41975991)                                                                     |
-| 2023年11月4日  | MILLION LIVE! 10thLIVE TOUR Act-3 DAY1                             | [A站](https://www.acfun.cn/v/ac42868608)                                                                     |
-| 2023年11月5日  | MILLION LIVE! 10thLIVE TOUR Act-3 DAY2                             | [A站](https://www.acfun.cn/v/ac42868792)                                                                     |
-| 2024年2月24日  | MILLION LIVE! 10thLIVE TOUR Act-4 DAY1                             | [A站](https://www.acfun.cn/v/ac43876446)                                                                     |
-| 2024年2月25日  | MILLION LIVE! 10thLIVE TOUR Act-4 DAY2                             | [A站](https://www.acfun.cn/v/ac43877147)                                                                     |
+| 2021年5月22日  | MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn DAY1                    | [A站](https://www.acfun.cn/v/ac34666890)<br>[B站](https://www.bilibili.com/video/BV1qGkGYrEtD)                |
+| 2021年5月23日  | MILLION LIVE! 7thLIVE Q@MP FLYER!!! Reburn DAY2                    | [A站](https://www.acfun.cn/v/ac30757149)<br>[B站](https://www.bilibili.com/video/BV1qGkGYrEtD/?p=2)           |
+| 2022年2月12日  | MILLION LIVE! 8thLIVE Twelw@ve DAY1                                | [A站](https://www.acfun.cn/v/ac33681064)<br>[B站](https://www.bilibili.com/video/BV1DskGYYEeg)                |
+| 2022年2月13日  | MILLION LIVE! 8thLIVE Twelw@ve DAY2                                | [A站](https://www.acfun.cn/v/ac33681128)<br>[B站](https://www.bilibili.com/video/BV1DskGYYEeg/?p=2)           |
+| 2023年1月14日  | MILLION LIVE! 9thLIVE ChoruSp@rkle!! DAY1                          | [A站](https://www.acfun.cn/v/ac40459876)<br>[B站](https://www.bilibili.com/video/BV1s9o1YXERZ)                |
+| 2023年1月15日  | MILLION LIVE! 9thLIVE ChoruSp@rkle!! DAY2                          | [A站](https://www.acfun.cn/v/ac40460217)<br>[B站](https://www.bilibili.com/video/BV1Woo1YDEit)                |
+| 2023年4月22日  | MILLION LIVE! 10thLIVE TOUR Act-1 DAY1                             | [A站](https://www.acfun.cn/v/ac41214577)<br>[B站](https://www.bilibili.com/video/BV1Tj411R77Y)                |
+| 2023年4月23日  | MILLION LIVE! 10thLIVE TOUR Act-1 DAY2                             | [A站](https://www.acfun.cn/v/ac41214579)<br>[B站](https://www.bilibili.com/video/BV1Hc411w7Xr)                |
+| 2023年7月29日  | MILLION LIVE! 10thLIVE TOUR Act-2 DAY1                             | [A站](https://www.acfun.cn/v/ac41975986)<br>[B站](https://www.bilibili.com/video/BV1oGLB6kEXH)                |
+| 2023年7月30日  | MILLION LIVE! 10thLIVE TOUR Act-2 DAY2                             | [A站](https://www.acfun.cn/v/ac41975991)<br>[B站](https://www.bilibili.com/video/BV1oGLB6kEXH/?p=2)           |
+| 2023年11月4日  | MILLION LIVE! 10thLIVE TOUR Act-3 DAY1                             | [A站](https://www.acfun.cn/v/ac42868608)<br>[B站](https://www.bilibili.com/video/BV1DSLz6KESd)                |
+| 2023年11月5日  | MILLION LIVE! 10thLIVE TOUR Act-3 DAY2                             | [A站](https://www.acfun.cn/v/ac42868792)<br>[B站](https://www.bilibili.com/video/BV1DSLz6KESd/?p=2)           |
+| 2024年2月24日  | MILLION LIVE! 10thLIVE TOUR Act-4 DAY1                             | [A站](https://www.acfun.cn/v/ac43876446)<br>[B站](https://www.bilibili.com/video/BV13KLz6iE3i)                |
+| 2024年2月25日  | MILLION LIVE! 10thLIVE TOUR Act-4 DAY2                             | [A站](https://www.acfun.cn/v/ac43877147)<br>[B站](https://www.bilibili.com/video/BV13KLz6iE3i/?p=2)           |
 | 2025年10月11日 | MILLION LIVE! 12thLIVE DAY1 ありのままに。                                | [B站](https://www.bilibili.com/video/BV1tj4izaEJX)                                                           |
 | 2025年10月12日 | MILLION LIVE! 12thLIVE DAY2 Let's Sing!                            | [B站](https://www.bilibili.com/video/BV1ML4izAExr)                                                           |
 | 2026年3月14日  | MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!                   | [B站](https://www.bilibili.com/video/BV1Kgw3zAEZz)                                                           |
@@ -75,7 +75,9 @@
 | 2017年4月29日                | 『ニコニコ超会議2017』超音楽祭2017 ミリオンスターズ出演パート                                           | [N站](https://www.nicovideo.jp/watch/sm31116964)                                                        |
 | 2017年8月26日                | Animelo Summer Live 2017 -THE CARD-                                           |                                                                                                        |
 | 2017年10月7日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! DAY1                    | [B站](https://www.bilibili.com/video/BV1cd4y1f7Pw)<br>[B站](https://www.bilibili.com/video/BV13z4y1q7zj) |
+|                           | 中文字幕                                                                          | [B站](https://www.bilibili.com/video/BV1Grf5YEEhe)                                                      |
 | 2017年10月8日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! DAY2                    | [B站](https://www.bilibili.com/video/BV1HP411B7Xg)<br>[B站](https://www.bilibili.com/video/BV1pu411a78a) |
+|                           | 中文字幕                                                                          | [B站](https://www.bilibili.com/video/BV18Pf5YCE13)                                                      |
 | 2018年1月28日                | リスアニ! LIVE 2018                                                               |                                                                                                        |
 | 2018年4月28日                | 『ニコニコ超会議2018』【超アイドルマスター】ミリシタステージ                                              | [N站](https://www.nicovideo.jp/watch/sm33121026)                                                        |
 | 2018年4月28日                | 『ニコニコ超会議2018』超音楽祭2018 ミリオンスターズ出演パート                                           | [N站](https://www.nicovideo.jp/watch/sm33121566)                                                        |
@@ -96,16 +98,17 @@
 | 2022年11月12日               | THE IDOLM@STER ORCHESTRA CONCERT 〜SYMPHONY OF FIVE STARS!!!!!〜 DAY1           | [B站](https://www.bilibili.com/video/BV1uR5xzkEdr)                                                      |
 | 2022年11月13日               | THE IDOLM@STER ORCHESTRA CONCERT 〜SYMPHONY OF FIVE STARS!!!!!〜 DAY2           | [B站](https://www.bilibili.com/video/BV1SR5xzrEWn)                                                      |
 |                           | 中文字幕                                                                          | [B站](https://www.bilibili.com/video/BV1UyuFzREzq)                                                      |
-| 2023年2月11日                | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 DAY1                           | [A站](https://www.acfun.cn/v/ac40656136)                                                                |
-| 2023年2月12日                | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 DAY2                           | [A站](https://www.acfun.cn/v/ac40656149)                                                                |
-| 2023年7月1日                 | 765 MILLIONSTARS LIVE 2023 Dreamin' Groove                                    | [A站](https://www.acfun.cn/v/ac41937609)                                                                |
+| 2023年2月11日                | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 DAY1                           | [A站](https://www.acfun.cn/v/ac40656136)<br>[B站](https://www.bilibili.com/video/BV1mXk3YsEF7)           |
+| 2023年2月12日                | THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023 DAY2                           | [A站](https://www.acfun.cn/v/ac40656149)<br>[B站](https://www.bilibili.com/video/BV1mXk3YsEF7/?p=2)      |
+| 2023年7月1日                 | 765 MILLIONSTARS LIVE 2023 Dreamin' Groove                                    | [A站](https://www.acfun.cn/v/ac41937609)<br>[B站](https://www.bilibili.com/video/BV1yypfe4Edp)           |
 | 2023年8月30日                | 「東北楽天ゴールデンイーグルス」コラボイベント （愛美、斉藤佑圭、藤井ゆきよ）                                       | [YTB](https://www.youtube.com/watch?v=AI80KuXSEq4)                                                     |
 | 2023年12月9日                | 異次元フェス アイドルマスター⭐❤️ラブライブ！歌合戦 DAY1                                              | [B站](https://www.bilibili.com/video/BV1Yu4y1G7Sm)                                                      |
 | 2023年12月10日               | 異次元フェス アイドルマスター⭐❤️ラブライブ！歌合戦 DAY2                                              | [B站](https://www.bilibili.com/video/BV13e411y7Tu)                                                      |
-| 2024年12月14日               | THE IDOLM@STER MASTER EXPO LIVE SHOWCASE & エキスポステージ                           | [A站](https://www.acfun.cn/v/ac46737648)                                                                |
+| 2024年12月14日               | THE IDOLM@STER MASTER EXPO LIVE SHOWCASE & エキスポステージ                           | [A站](https://www.acfun.cn/v/ac46737648)<br>[B站](https://www.bilibili.com/video/BV11y6mYSEE6)           |
 | 2025年3月29日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY1                  | [B站](https://www.bilibili.com/video/BV1WpZYYJEAk)                                                      |
-|                           | 中文字幕                                                                          | [A站](https://www.acfun.cn/v/ac47097401)                                                                |
+|                           | 中文字幕                                                                          | [A站](https://www.acfun.cn/v/ac47097401)<br>[B站](https://www.bilibili.com/video/BV1RTSjBxEAf)           |
 | 2025年3月30日                | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 DAY2                  | [B站](https://www.bilibili.com/video/BV1DvZBY1E9m)                                                      |
+|                           | 中文字幕                                                                          | [B站](https://www.bilibili.com/video/BV15NSjBZE3x)                                                      |
 | 2025年4月11日                | MaiNote Festival 2025                                                         |                                                                                                        |
 | 2025年7月12日                | THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS | [B站](https://www.bilibili.com/video/BV1HQbQz6EEW)                                                      |
 | 2025年7月13日                | リスアニ! LIVE 2025 ナツヤスミ DAY2                                                    |                                                                                                        |

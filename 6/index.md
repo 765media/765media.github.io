@@ -49,6 +49,7 @@
 | 2022年2月24日       | 【絶賛準備中！①】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜CLEVER CLOVER〜           | [YTB](https://www.youtube.com/watch?v=GZnAq_0SLJA)                                                      |
 | 2022年2月25日       | 【絶賛準備中！②】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜CLEVER CLOVER〜【アイドルマスター】 | [YTB](https://www.youtube.com/watch?v=BzIWge_ke_c)                                                      |
 | 2022年3月27日       | 【アニメ】【ミリオンライブ！】アニメプロローグイメージMV「セブンカウント」                                         | [YTB](https://www.youtube.com/watch?v=_XKtVD8z5aQ)<br>[B站](https://www.bilibili.com/video/BV1b3411p7SV) |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV1cH4y1o7Jt)                                                       |
 | 2022年5月31日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」PV第4弾                                               | [YTB](https://www.youtube.com/watch?v=uZE7O5WclZw)                                                      |
 | 2022年6月10日       | 【絶賛準備中！①】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜LOVERS HEART〜【アイドルマスター】  | [YTB](https://www.youtube.com/watch?v=qSkZpgy0Xqg)                                                      |
 | 2022年6月10日       | 【絶賛準備中！②】THE IDOLM@STER MILLION LIVE! SEASON-@IR!!!! 〜LOVERS HEART〜【アイドルマスター】  | [YTB](https://www.youtube.com/watch?v=3encmPoAkmc)                                                      |
@@ -60,14 +61,20 @@
 | 2023年1月6日        | 【ミリシタ】2022年振り返りPV                                                              | [YTB](https://www.youtube.com/watch?v=SlU-FiLVnm8)                                                      |
 | 2023年1月14日       | アイドルマスター ミリオンライブ！10周年記念PV                                                      | [YTB](https://www.youtube.com/watch?v=c97tLMSTJu0)                                                      |
 | 2023年1月14日       | 【アニメ】【ミリオンライブ！】2023年8月全話数劇場先行上映決定！ティザーPV                                       | [YTB](https://www.youtube.com/watch?v=9HiBLQE4w4E)                                                      |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV11o4y1F76r)                                                       |
 | 2023年2月27日       | 【ミリオンライブ！】ありがとう10周年！お祝いムービー                                                    | [YTB](https://www.youtube.com/watch?v=l1t_yT-mQH4)                                                      |
 | 2023年3月25日       | 【アニメ】【ミリオンライブ！】ミリアニTVCM                                                        | [YTB](https://www.youtube.com/watch?v=U7FX2JF60Cw)                                                      |
 | 2023年3月25日       | 【アニメ】【ミリオンライブ！】765プロダクション MILLIONSTARS紹介PV                                     | [YTB](https://www.youtube.com/watch?v=mi6I1GVj3sU)                                                      |
 | 2023年6月1日        | 【アニメ】【ミリオンライブ！】劇場先行上映本予告PV                                                     | [YTB](https://www.youtube.com/watch?v=58D58_Wp7Ok)                                                      |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV13h4y1d77X)                                                       |
+| 2023年6月16日       | 【アニメ】【ミリオンライブ！】劇場先行上映 幕間映像                                                     | [YTB](https://www.youtube.com/watch?v=StZesN4RPo0)                                                      |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV14s4y1y7Ga)                                                       |
 | 2023年6月28日       | 【ミリシタ】6周年特別PV                                                                  | [YTB](https://www.youtube.com/watch?v=8u_w2a30Zp8)                                                      |
 | 2023年7月22日       | 「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」開催決定 特報CM                                          | [YTB](https://www.youtube.com/watch?v=7x-uO6EMmsM)                                                      |
 | 2023年8月21日       | 【アニメ】【ミリオンライブ！】ミリアニ劇場先行上映《第2幕》本予告PV                                            | [YTB](https://www.youtube.com/watch?v=3YLwB4vGdNY)                                                      |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV1Pw41197pQ)                                                       |
 | 2023年9月11日       | 【アニメ】【ミリオンライブ！】ミリアニ劇場先行上映《第3幕》本予告PV                                            | [YTB](https://www.youtube.com/watch?v=iRIGNnwQ04A)                                                      |
+|                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV1M14y1r76g)                                                       |
 | 2023年11月10日      | 【ミリオンライブ！】茜ちゃんねる★からのご報告                                                        | [YTB](https://www.youtube.com/watch?v=V4jhTGb2Bq4)                                                      |
 | 2024年1月9日        | 【ミリシタ】2023年振り返りPV                                                              | [YTB](https://www.youtube.com/watch?v=Y6zknGfW0_g)                                                      |
 | 2024年2月26日       | 【ミリオンライブ！】10周年ありがとうPV                                                          | [YTB](https://www.youtube.com/watch?v=Tts3z9AgWYY)                                                      |
