@@ -10,13 +10,13 @@
 | 2017年12月27日 | MTG03 Angel Stars! -Other Side-                       |                                                         |
 | 2018年1月31日  | MTG04 Princess Stars! -Other Side-                    | [B站](https://www.bilibili.com/video/BV1Gb411s7r7)       |
 | 2018年2月28日  | MTG05 昏き星、遠い月                                         | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=4)  |
-| 2018年3月28日  | MTG06 虹色letters                                       |                                                         |
+| 2018年3月28日  | MTG06 虹色letters                                       | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=10) |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV15h411K7YT)       |
 | 2018年4月25日  | MTG07 魔法少女トゥインクルリズム                                   | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=15) |
 | 2018年5月30日  | MTG08 Melty Fantasia                                  | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=20) |
 | 2018年6月27日  | MTG09 セレブレーション！                                       | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=24) |
-| 2018年7月25日  | MTG10 咲くは浮世の君花火                                       |                                                         |
+| 2018年7月25日  | MTG10 咲くは浮世の君花火                                       | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=28) |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1cg411K7UJ)       |
 | 2018年9月26日  | TB01 ビッグバンズバリボー!!!!!                                  | [B站](https://www.bilibili.com/video/BV1v9UAB9Ey5)       |
@@ -30,15 +30,15 @@
 | 2019年5月29日  | MTG17 階のスターエレメンツ                                      | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=59) |
 | 2019年10月30日 | TC01 おとぎの国の物語                                         | [B站](https://www.bilibili.com/video/BV1BNYVzAETN)       |
 | 2019年11月27日 | TC02 End of the world                                 | [B站](https://www.bilibili.com/video/BV1kk4y167NE)       |
-| 2020年7月29日  | TC03 誰ソ彼ノ淵                                            |                                                         |
+| 2020年7月29日  | TC03 誰ソ彼ノ淵                                            | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1B54y1S7gc)       |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1nPedzoELm)       |
 | 2019年8月28日  | MTW02 Chrono-Lexica                                   | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=68) |
-| 2019年9月25日  | MTW03 Xs『ミッドナイト・ガールズ・パーティー』                           |                                                         |
+| 2019年9月25日  | MTW03 Xs『ミッドナイト・ガールズ・パーティー』                           | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1gK4y1E7VL)       |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=72) |
 | 2019年12月25日 | MTW04 Sherry 'n Cherry『このみと莉緒のセクシー♡ナイトラジオ』            | [B站](https://www.bilibili.com/video/BV11g4y1m7Ku)       |
-| 2020年1月29日  | MTW05 ARCANA                                          |                                                         |
+| 2020年1月29日  | MTW05 ARCANA                                          | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=2)  |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1mjsAzvEQc)       |
 | 2020年2月26日  | MTW06 花咲夜                                             | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=3)  |
@@ -48,7 +48,7 @@
 | 2020年9月23日  | MTW11 オペラセリア・煌輝座『Parade d'amour』                      | [B站](https://www.bilibili.com/video/BV18PKfzjE1K)       |
 | 2020年10月28日 | MTW12 ダイヤモンドダイバー◇                                     | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=6)  |
 | 2021年1月27日  | MTW13 TIntMe!                                         | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=7)  |
-| 2021年2月24日  | MTW14 TRICK&TREAT                                     |                                                         |
+| 2021年2月24日  | MTW14 TRICK&TREAT                                     | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1b14y1D738/?p=8)  |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1PssAzcEAR)       |
 | 2021年12月15日 | MTW15 chicAAmor                                       | [B站](https://www.bilibili.com/video/BV1xM4y1b7tg)       |
@@ -122,7 +122,7 @@
 | 2016年3月23日  | LIVE THE@TER DREAMERS 06                 |                                                         |
 |             | 「偶像大师 百万现场」3周年 DramaCD                   | [B站](https://www.bilibili.com/video/BV1aL411U7ap)       |
 | 2016年9月7日   | TA01 リリィ・クエスト ～天空の子豚～                    | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=82) |
-| 2016年10月12日 | TA02 果てしなく仁義ない戦い 魅梨音闘争篇                  |                                                         |
+| 2016年10月12日 | TA02 果てしなく仁義ない戦い 魅梨音闘争篇                  | ↓                                                       |
 |             | 中文字幕1                                    | [B站](https://www.bilibili.com/video/BV1Ms411x7Xe)       |
 |             | 中文字幕2                                    | [B站](https://www.bilibili.com/video/BV18E411C77f)       |
 | 2016年11月9日  | TA03 魅裏怨                                 | [B站](https://www.bilibili.com/video/BV1FDa1zZE7Q)       |

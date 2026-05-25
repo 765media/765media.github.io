@@ -25,10 +25,10 @@
 | 2017年7月13日       | THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!!【プロモーションPV】               | [B站](https://www.bilibili.com/video/BV1dx411q7d4)                                                  |
 | 2017年10月8日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」TVCM第3弾（コミュ 篇）                                      | [YTB](https://www.youtube.com/watch?v=HcQ6WbcQleg)                                                 |
 | 2017年12月1日       | 『アイドルマスター ミリオンライブ！』フィナーレムービー                                                   | [YTB](https://www.youtube.com/watch?v=6KJ6VQZOI3w)                                                 |
-| 2018年2月8日        | 田中琴葉が劇場に到着しました！                                                                |                                                                                                    |
+| 2018年2月8日        | 田中琴葉が劇場に到着しました！                                                                | ↓                                                                                                  |
 |                  | 中文字幕1                                                                          | [B站](https://www.bilibili.com/video/BV17W411E79w)                                                  |
 |                  | 中文字幕2                                                                          | [B站](https://www.bilibili.com/video/BV1bM411s7dS)                                                  |
-| 2018年3月30日~5月30日 | 【ミリシタ塾】Lesson1~Lesson10                                                        |                                                                                                    |
+| 2018年3月30日~5月30日 | 【ミリシタ塾】Lesson1~Lesson10                                                        | ↓                                                                                                  |
 |                  | 中文字幕                                                                           | [B站](https://www.bilibili.com/video/BV13W411M7u3)                                                  |
 | 2018年6月29日       | 「アイドルマスター ミリオンライブ！ シアターデイズ」一周年記念TVCM 箱崎星梨花編 望月杏奈篇                              | [N站](https://www.nicovideo.jp/watch/sm33441185)                                                    |
 | 2018年12月12日      | 「アイドルマスター ミリオンライブ！ シアターデイズ」PV第3弾                                               | [YTB](https://www.youtube.com/watch?v=zv9WE6gcBkY)                                                 |
