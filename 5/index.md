@@ -24,6 +24,9 @@
 |             | 中文字幕                                       | [A站](https://www.acfun.cn/v/ac34667113)                                                      |
 | 2022年11月30日 | （8th特典）ミリオン＊ショコラティエ                        | ↓                                                                                            |
 |             | 中文字幕                                       | [A站](https://www.acfun.cn/v/ac40034984)<br>[B站](https://www.bilibili.com/video/BV1Kv4y1i7zc) |
+| 2024年1月10日  | （动画第1卷特典）765プロch 原っぱ通信 劇場先行上映振り返り編 第1幕     | [B站](https://www.bilibili.com/video/BV1iC411576p)                                            |
+| 2024年1月10日  | （动画第1卷特典）パイロット映像「Precious Grain」           | [B站](https://www.bilibili.com/video/BV1hg4y1S7aq)                                            |
+| 2024年1月10日  | （动画第1卷特典）劇場先行上映 第1幕 舞台挨拶（上映後／上映前）          | [B站](https://www.bilibili.com/video/BV19i421k74B)                                            |
 | 2024年2月14日  | （9th特典）RACSp@rkle!(レースパークル)                | ↓                                                                                            |
 |             | 中文字幕1                                      | [B站](https://www.bilibili.com/video/BV1vXYje7EeJ)                                            |
 |             | 中文字幕2                                      | [B站](https://www.bilibili.com/video/BV1Zh1MBPEgG)                                            |
