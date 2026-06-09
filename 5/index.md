@@ -30,4 +30,5 @@
 | 2024年2月14日  | （9th特典）RACSp@rkle!(レースパークル)                | ↓                                                                                            |
 |             | 中文字幕1                                      | [B站](https://www.bilibili.com/video/BV1vXYje7EeJ)                                            |
 |             | 中文字幕2                                      | [B站](https://www.bilibili.com/video/BV1Zh1MBPEgG)                                            |
+| 2025年1月29日  | （10th特典）ひゃくまんパワーで道をつなげ！謎のシアターの向こうへ！        | [B站](https://www.bilibili.com/video/BV1ASqDBkEEz/?p=5)                                       |
 | 2026年3月27日  | （OVA特典）～群馬のだいたい、真ん中で～ のんびり３人旅              | [B站](https://www.bilibili.com/video/BV1y6XCBbEQ2)                                            |

@@ -115,5 +115,5 @@
 | 2025年8月24日                | KIMCHIKURA Fes VOL.4（韓国）                                                      |                                                                                                        |
 | 2025年8月30日                | Animelo Summer Live 2025  -Thanxx!-                                           |                                                                                                        |
 | 2025年12月12日               | M@STERS OF IDOL WORLD 2025 前夜祭DJイベント（一部）                                      | [B站](https://www.bilibili.com/video/BV1Zdm2B7Ez8)                                                      |
-| 2025年12月13日               | THE IDOLM@STER M@STERS OF IDOL WORLD 2025 DAY1                                |                                                                                                        |
+| 2025年12月13日               | THE IDOLM@STER M@STERS OF IDOL WORLD 2025 DAY1                                | [B站](https://www.bilibili.com/video/BV17CGm6aERj)                                                      |
 | 2025年12月14日               | THE IDOLM@STER M@STERS OF IDOL WORLD 2025 DAY2                                | [B站](https://www.bilibili.com/video/BV1PDP9zXE1C)                                                      |
