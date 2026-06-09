@@ -49,8 +49,8 @@
 | 2024年2月25日  | MILLION LIVE! 10thLIVE TOUR Act-4 DAY2                             | [A站](https://www.acfun.cn/v/ac43877147)<br>[B站](https://www.bilibili.com/video/BV13KLz6iE3i/?p=2)           |
 | 2025年10月11日 | MILLION LIVE! 12thLIVE DAY1 ありのままに。                                | [B站](https://www.bilibili.com/video/BV1tj4izaEJX)                                                           |
 | 2025年10月12日 | MILLION LIVE! 12thLIVE DAY2 Let's Sing!                            | [B站](https://www.bilibili.com/video/BV1ML4izAExr)                                                           |
-| 2026年3月14日  | MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!                   | [B站](https://www.bilibili.com/video/BV1Kgw3zAEZz)                                                           |
-| 2026年3月15日  | MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア                             |                                                                                                             |
+| 2026年3月14日  | MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!                   | [B站](https://www.bilibili.com/video/BV1Kgw3zAEZz)<br>[B站](https://www.bilibili.com/video/BV1NGL56xEeW)      |
+| 2026年3月15日  | MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア                             | [B站](https://www.bilibili.com/video/BV1AvLV6DEMz)                                                           |
 | 2026年5月5日   | MILLION LIVE! 13thLIVE DAY1 全力援走                                   | [B站](https://www.bilibili.com/video/BV14WdABfEyf)<br>[B站](https://www.bilibili.com/video/BV1WXGq61EMW)      |
 | 2026年5月6日   | MILLION LIVE! 13thLIVE DAY2 Grand bal masqué                       | [B站](https://www.bilibili.com/video/BV1nBdABJEb7)<br>[B站](https://www.bilibili.com/video/BV1WXGq61EMW/?p=2) |
 
