@@ -27,10 +27,10 @@
 | 2018年7月25日  | MTG10 咲くは浮世の君花火                                       | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=28) |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1cg411K7UJ)       |
-| 2018年9月26日  | TB01 ビッグバンズバリボー!!!!!                                  | [B站](https://www.bilibili.com/video/BV1v9UAB9Ey5)       |
-| 2018年10月24日 | TB02 空猫珈琲店へようこそ！                                      | ↓                                                       |
+| 2018年9月26日  | TB01 ビッグバンズバリボー!!!!!『激突!! 帝花女学院!!』                    | [B站](https://www.bilibili.com/video/BV1v9UAB9Ey5)       |
+| 2018年10月24日 | TB02 オーディナリィ・クローバー『空猫珈琲店へようこそ！』                       | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1xb411w7Un)       |
-| 2018年11月28日 | TB03 屋根裏の道化師                                          | ↓                                                       |
+| 2018年11月28日 | TB03 ラスト・アクトレス『屋根裏の道化師』                               | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1vb411T7yk)       |
 | 2018年12月26日 | MTG12 天国の鳥                                            | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=32) |
@@ -44,11 +44,11 @@
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=53) |
 | 2019年5月29日  | MTG17 階のスターエレメンツ                                      | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=59) |
-| 2019年10月30日 | TC01 おとぎの国の物語                                         | ↓                                                       |
+| 2019年10月30日 | TC01 Girl meets Wonder『おとぎの国の物語』                      | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1BNYVzAETN)       |
-| 2019年11月27日 | TC02 End of the world                                 | ↓                                                       |
+| 2019年11月27日 | TC02 World Changer『End of the world』                  | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1kk4y167NE)       |
-| 2020年7月29日  | TC03 誰ソ彼ノ淵                                            | ↓                                                       |
+| 2020年7月29日  | TC03 クルリウタ『誰ソ彼ノ淵』                                     | ↓                                                       |
 |             | 中文字幕1                                                 | [B站](https://www.bilibili.com/video/BV1B54y1S7gc)       |
 |             | 中文字幕2                                                 | [B站](https://www.bilibili.com/video/BV1nPedzoELm)       |
 | 2019年8月28日  | MTW02 Chrono-Lexica                                   | ↓                                                       |
@@ -109,13 +109,13 @@
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1pp4y1d7pb)       |
 | 2023年10月25日 | MAT Team8th 『REFRAIN REL@TION』                        | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV16T4y1p7LP)       |
-| 2023年12月27日 | MILLION C@STING 01 解夏傀儡                               | ↓                                                       |
+| 2023年12月27日 | MC01 解夏傀儡『彼ハ誰ノ彼岸』                                     | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1Me411i7Md)       |
-| 2024年1月31日  | MILLION C@STING 02 エンダーエンダー                           | ↓                                                       |
+| 2024年1月31日  | MC02 エンダーエンダー『エンダー／ゲーム』                               | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1kTaizKEoA)       |
-| 2024年3月27日  | MILLION C@STING 03 ミステイク・マーダー！                        | ↓                                                       |
+| 2024年3月27日  | MC03 ミステイク・マーダー！『完全犯罪のお時間です♪』                         | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1fr421t7dY)       |
-| 2024年4月24日  | MILLION C@STING 04 銀のテーブル木苺ジャム                        | ↓                                                       |
+| 2024年4月24日  | MC04 銀のテーブル木苺ジャム『悪役？令嬢～婚約破棄されたので侍女と幸せになります！』          | ↓                                                       |
 |             | 中文字幕                                                  | [B站](https://www.bilibili.com/video/BV1CD85zzEyq)       |
 | 2024年6月26日  | MOA01 SunRiser『765プロチャンネル生配信！ ソル』                     | [B站](https://www.bilibili.com/video/BV1LZT1zdEKh)       |
 | 2024年8月28日  | MOA02 ilLUmiNAte!『765プロチャンネル生配信！ ルナ』                  | [B站](https://www.bilibili.com/video/BV17p9yBREPq/?p=3)  |
@@ -186,12 +186,12 @@
 | 2016年3月23日  | LIVE THE@TER DREAMERS 06                             | [B站](https://www.bilibili.com/video/BV1CXX7BsEBr)       |
 | 2016年6月     | （3周年）765プロライブシアター 3周年記念イベントレポート ドラマCD                | ↓                                                       |
 |             | 中文字幕                                                 | [B站](https://www.bilibili.com/video/BV1aL411U7ap)       |
-| 2016年9月7日   | TA01 リリィ・クエスト ～天空の子豚～                                | ↓                                                       |
+| 2016年9月7日   | TA01 創造は始まりの風を連れて『リリィ・クエスト ～天空の子豚～』                  | ↓                                                       |
 |             | 中文字幕                                                 | [B站](https://www.bilibili.com/video/BV1D7411y7Uo/?p=82) |
-| 2016年10月12日 | TA02 果てしなく仁義ない戦い 魅梨音闘争篇                              | ↓                                                       |
+| 2016年10月12日 | TA02 俠気乱舞『果てしなく仁義ない戦い 魅梨音闘争篇』                        | ↓                                                       |
 |             | 中文字幕1                                                | [B站](https://www.bilibili.com/video/BV1Ms411x7Xe)       |
 |             | 中文字幕2                                                | [B站](https://www.bilibili.com/video/BV18E411C77f)       |
-| 2016年11月9日  | TA03 魅裏怨                                             | ↓                                                       |
+| 2016年11月9日  | TA03 赤い世界が消える頃『魅裏怨』                                  | ↓                                                       |
 |             | 中文字幕                                                 | [B站](https://www.bilibili.com/video/BV1FDa1zZE7Q)       |
 | 2016年12月7日  | LIVE THE@TER FORWARD 01 Sunshine Rhythm              | ↓                                                       |
 |             | 中文字幕                                                 | [B站](https://www.bilibili.com/video/BV1SW411k78g)       |
